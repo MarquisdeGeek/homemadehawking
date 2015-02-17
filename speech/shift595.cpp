@@ -2,10 +2,10 @@
 #include "shift595.h"
 
 /*
-595 : 
+74HC595 : 
   data   14
-  clock  12
-  latch  11
+  latch  12
+  clock  11
 */
 
 ShiftRegister::ShiftRegister(int ds/*ser*/, int st_cp/*clock*/, int sh_cp /*latch*/) {
