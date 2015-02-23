@@ -1,5 +1,7 @@
-# homemadehawking
+# Homemade Hawking
 An Arduino-based speech synthesizer just like Stephen Hawking.
+
+Read more at : http://www.marquisdegeek.com/making_hawking
 
 See it in action at : http://youtu.be/1eSkpLIrBUQ
 
